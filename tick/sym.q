@@ -1,1 +1,2 @@
-quotes:([]time:0Nn;sym:enlist `;gbpPrice:0Nf;qty:0Ni;date:0Nd;traded:1b);
+quotes:([]time:`timespan$();sym:`symbol$();gbpPrice:`float$();qty:`int$();date:`date$();traded:`boolean$());
+
